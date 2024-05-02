@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486761220637",
+    "project_id": "miniproject-55deb",
+    "storage_bucket": "miniproject-55deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486761220637:android:3584147f3428b6801b94f4",
+        "android_client_info": {
+          "package_name": "com.example.miniproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2jcxD_K8N5lrZdByf3YOA-7c4bUf2VKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
